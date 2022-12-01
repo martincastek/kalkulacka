@@ -1,0 +1,15 @@
+C:\CSHARP programy\kalkulačka s while\kalkulačka s while\obj\Debug\net6.0\kalkulačka s while.csproj.AssemblyReference.cache
+C:\CSHARP programy\kalkulačka s while\kalkulačka s while\obj\Debug\net6.0\kalkulačka s while.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSHARP programy\kalkulačka s while\kalkulačka s while\obj\Debug\net6.0\kalkulačka s while.AssemblyInfoInputs.cache
+C:\CSHARP programy\kalkulačka s while\kalkulačka s while\obj\Debug\net6.0\kalkulačka s while.AssemblyInfo.cs
+C:\CSHARP programy\kalkulačka s while\kalkulačka s while\obj\Debug\net6.0\kalkulačka s while.csproj.CoreCompileInputs.cache
+C:\CSHARP programy\kalkulačka s while\kalkulačka s while\bin\Debug\net6.0\kalkulačka s while.exe
+C:\CSHARP programy\kalkulačka s while\kalkulačka s while\bin\Debug\net6.0\kalkulačka s while.deps.json
+C:\CSHARP programy\kalkulačka s while\kalkulačka s while\bin\Debug\net6.0\kalkulačka s while.runtimeconfig.json
+C:\CSHARP programy\kalkulačka s while\kalkulačka s while\bin\Debug\net6.0\kalkulačka s while.dll
+C:\CSHARP programy\kalkulačka s while\kalkulačka s while\bin\Debug\net6.0\kalkulačka s while.pdb
+C:\CSHARP programy\kalkulačka s while\kalkulačka s while\obj\Debug\net6.0\kalkulačka s while.dll
+C:\CSHARP programy\kalkulačka s while\kalkulačka s while\obj\Debug\net6.0\refint\kalkulačka s while.dll
+C:\CSHARP programy\kalkulačka s while\kalkulačka s while\obj\Debug\net6.0\kalkulačka s while.pdb
+C:\CSHARP programy\kalkulačka s while\kalkulačka s while\obj\Debug\net6.0\kalkulačka s while.genruntimeconfig.cache
+C:\CSHARP programy\kalkulačka s while\kalkulačka s while\obj\Debug\net6.0\ref\kalkulačka s while.dll
